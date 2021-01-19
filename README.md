@@ -10,6 +10,10 @@ This is a basic bootstrap boilerplate or starter template.
 </html>
 `
 
+## Examples
+1. Example of a Button click
+![example of button click](IMG/CLICK.jpg)
+
 ## Prerequisites
 +Bootstrap
 +Internet
