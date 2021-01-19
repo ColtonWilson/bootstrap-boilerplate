@@ -12,7 +12,7 @@ This is a basic bootstrap boilerplate or starter template.
 
 ## Examples
 1. Example of a Button click
-![example of button click](IMG/CLICK.jpg)
+![example of button click](img\CLICK.png)
 
 ## Prerequisites
 +Bootstrap
